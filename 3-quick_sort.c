@@ -86,7 +86,7 @@ void recursive_sort(int *array, size_t low, size_t high, size_t size)
  * Return: nothing
  */
 
-void swap (int *a, int *b)
+void swap(int *a, int *b)
 {
 	int tmp;
 
